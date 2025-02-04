@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Assignment_SQA\\ECommerceApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|d:\\assignment_sqa\\ecommerceapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|d:\\assignment_sqa\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Assignment_SQA\\ECommerceApp\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Assignment_SQA\\ECommerceApp\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:04:50.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Assignment_SQA\\ECommerceApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
