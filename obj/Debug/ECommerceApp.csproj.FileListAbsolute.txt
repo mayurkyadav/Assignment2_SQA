@@ -1,0 +1,7 @@
+D:\Assignment_SQA\ECommerceApp\bin\Debug\ECommerceApp.exe.config
+D:\Assignment_SQA\ECommerceApp\bin\Debug\ECommerceApp.exe
+D:\Assignment_SQA\ECommerceApp\bin\Debug\ECommerceApp.pdb
+D:\Assignment_SQA\ECommerceApp\obj\Debug\ECommerceApp.csproj.AssemblyReference.cache
+D:\Assignment_SQA\ECommerceApp\obj\Debug\ECommerceApp.csproj.CoreCompileInputs.cache
+D:\Assignment_SQA\ECommerceApp\obj\Debug\ECommerceApp.exe
+D:\Assignment_SQA\ECommerceApp\obj\Debug\ECommerceApp.pdb
