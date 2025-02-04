@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "D:\\Assignment_SQA\\ECommerceApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E07E2A95-9EAD-4426-8AC1-295B1301F476}|..\\ECommerceAppTest\\ECommerceAppTest.csproj|d:\\assignment_sqa\\ecommerceapptest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|d:\\assignment_sqa\\ecommerceapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|d:\\assignment_sqa\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|D:\\Assignment_SQA\\ECommerceApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF1CAA6E-90BD-490D-91F2-5A78B0D23527}|ECommerceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,6 +30,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "D:\\Assignment_SQA\\ECommerceAppTest\\ProductTest.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceAppTest\\ProductTest.cs",
+              "ToolTip": "D:\\Assignment_SQA\\ECommerceAppTest\\ProductTest.cs",
+              "RelativeToolTip": "..\\ECommerceAppTest\\ProductTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:08:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Assignment_SQA\\ECommerceApp\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
@@ -39,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Assignment_SQA\\ECommerceApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
